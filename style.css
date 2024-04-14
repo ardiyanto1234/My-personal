@@ -1,0 +1,74 @@
+body{
+    min-height: 2000px;
+}
+
+.jumbotron{
+    padding-top: 3rem;
+    background-color: #0099ff;
+}
+
+body{
+    background-color: #0099ff;
+    color: #ffffff; 
+}
+#about{
+    padding-top: 4rem;
+    background-color: #333333;
+}
+
+#project{
+    padding-top: 4rem;
+    background-color: #0099ff;
+    
+}
+#contact {
+    padding-top: 3rem;
+    background-color: #333333;
+}
+.card-img-top {
+    object-fit: cover;
+    height: 100%;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.profile img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.bio {
+    flex: 1;
+}
+
+.bio h2 {
+    color: #333;
+}
+
+.bio p {
+    margin-bottom: 10px;
+    color: #666;
+}
